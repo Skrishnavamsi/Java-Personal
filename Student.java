@@ -7,7 +7,7 @@ public class Student {
         return this.name;
     }
     public static void main(String[] args) {
-        Student student1 = new Student("krishnavamsi");
+        Student student1 = new Student("krishnavamsi S");
         System.out.println("Student Name: " + student1.getName());
     }
 }
